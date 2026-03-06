@@ -14,6 +14,7 @@ De acordo com as diretrizes do projeto, a implementação segue as seguintes tec
 ## 📂 Documentação Completa
 Para uma visão detalhada dos requisitos funcionais, não funcionais e regras de negócio, acesse:
 👉 [**Especificação Técnica de Requisitos**](./docs/especificacao_tecnica.md)
+👉 [**Proposta de Evolução com IA**](./docs/proposta_ia.md)
 
 ---
 **Autor:** Ezequiel - Estudante de Engenharia de Software
