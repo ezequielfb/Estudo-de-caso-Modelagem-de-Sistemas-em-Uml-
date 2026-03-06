@@ -12,8 +12,10 @@ De acordo com as diretrizes do projeto, a implementação segue as seguintes tec
 * **Metodologia:** Scrum (Prazo: 4 meses)
 
 ## 📂 Documentação Completa
-Para uma visão detalhada dos requisitos funcionais, não funcionais e regras de negócio, acesse:
+Para uma visão detalhada dos requisitos funcionais, não funcionais regras de negócio, acesse:
 👉 [**Especificação Técnica de Requisitos**](./docs/especificacao_tecnica.md)
+
+Para ver uma proposta de evolução do projeto com inteligência artificial:
 👉 [**Proposta de Evolução com IA**](./docs/proposta_ia.md)
 
 ---
